@@ -99,7 +99,7 @@ The `WebSecurityConfig` class extends `WebSecurityConfigurerAdapter` to provide 
 2. Fork this repository and clone it
   
 ```
-$ git clone https://github.com/mauridirienzo/tenpo-di-rienzo.git
+$ git clone https://github.com/mauridirienzo/tenpo-dirienzo.git
 ```
 
 3. Navigate to folder tenpo-di-rienzo 
