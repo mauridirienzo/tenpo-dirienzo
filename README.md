@@ -112,7 +112,7 @@ $ cd tenpo-di-rienzo
 $ mvn install
 ```
 
-5. Move to folder src/main/docker and run the project on docker containers using docker-compose. It will pull requiered images from dockerHub and run the application (make sure port 8080 is not in use)
+5. Move to folder src/main/docker and run the project on docker containers using docker-compose. It will pull requiered images from dockerHub and application Will run (make sure port 8080 is not in use)
 
 ```
 $ cd src/main/docker
